@@ -1,0 +1,10 @@
+李林浩，男，大一，目前有一定开发能力，会使用git版本控制，利用托管平台进行集体开发，对计算机基础知识有一定了解，
+熟悉部分linux指令，熟悉mysql语言，redis缓存，springboot运用，对于框架有一定了解，
+会使用前端三板斧，编写简单界面，并且实现前后端对接联调，会使用java进行依赖分析，依赖引入，
+目前个人开发一个博客项目，技术选型springboot原生开发，没有使用vue框架，
+链接
+https://gitee.com/nanxin-li-zhengzhi/rain-hole-li-blog-project
+完全由个人开发，现在实现了所有的基础功能，数据层用mybatics链接mysql，没有使用redis缓存
+分页逻辑运用githubpagehelper，项目开发时有标准错误码，联表查询。
+javascript基础比较薄弱，还需要进一步深化。
+关于高并发场景，会使用redistemplate乐观锁悲观锁锁线程，能够初始化线程池处理高并发操作。
